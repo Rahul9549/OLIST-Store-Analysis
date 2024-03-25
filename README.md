@@ -1,4 +1,4 @@
-![image](https://github.com/Rahul9549/OLIST-Store-Analysis-/assets/158488879/1089cc55-1d57-438a-aff3-f9f8184fef79)![image](https://github.com/Rahul9549/OLIST-Store-Analysis-/assets/158488879/850ea4de-00e6-4cc7-a133-84274a04b343)
+![image](https://github.com/Rahul9549/OLIST-Store-Analysis-/assets/158488879/850ea4de-00e6-4cc7-a133-84274a04b343)
 
 ## Agenda:-
 - Benefits Of Analysis
@@ -34,7 +34,7 @@
 
 ## KPIs and Conclusion
 
-1. Weekday Vs Weekend Payment Statistics
+-- A. Weekday Vs Weekend Payment Statistics
   1. Sum of payments in week day’s is 77% & for weekend 23%
   2. The weekdays payment is near about 3.4 times of weekend
   3. There need to increase the number of order in Weekend
@@ -43,7 +43,39 @@
   2. Opportunities in Marketing to increase customers on weekend.
   3. Inventory management.
 
-2. 
+-- B. Number Of Orders With Review Score 5 And Payment Type As Credit Card
+  1. The highest orders with a review score of 5 using a credit card are 44.25K.
+  2. The total number of orders are 76055 using credit card among which the review score 5 
+     covers 57.82% of the total orders which is really good.
+- Conclusion
+   1. Positive relationship, trust and convenience 
+   2. Reliability and security 
+   3. Enhanced customer experience
+
+-- C. Average Number Of Days Taken For Order Delivered Customer Date For Pet Shop
+   1. The Average Number Of Days Taken For Pet Shop Is A 11 Days.
+  -Conclusion
+    1. Efficiency of operations
+    2. Timeliness of order fulfillment
+    3. Process optimizing
+
+-- D. Average Price And Payment Values From Customers Of Sao Paulo City
+     1. Customers from sao paulo city tend to have a higher average price for their 
+        purchases that is 107.
+     2. Customers from sao paulo city also have higher average payment values, that is 135.
+     
+
+    
+
+
+
+ 
+
+
+
+
+
+
 
 
 
