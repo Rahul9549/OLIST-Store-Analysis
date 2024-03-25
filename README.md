@@ -1,4 +1,5 @@
-![image](https://github.com/Rahul9549/OLIST-Store-Analysis-/assets/158488879/2f39f980-0f00-4797-b2e3-c9d0e1733274)![image](https://github.com/Rahul9549/OLIST-Store-Analysis-/assets/158488879/de38265b-ed12-4160-8f3e-73c14ffc157b)![image](https://github.com/Rahul9549/OLIST-Store-Analysis-/assets/158488879/850ea4de-00e6-4cc7-a133-84274a04b343)
+# OLIST Store Analysis
+--------------------------------------------------------------------------------------------
 
 ## Agenda:-
 - Benefits Of Analysis
@@ -6,6 +7,7 @@
 - Creating Visualizations And Dashboards
 - KPI’s And Conclusion
 - Insights And Recommendation
+-------------------------------------------------------------------------------------------
 
 ## Benefits of Analysis
 1. Informed Decision Making : Data analysis enables organizations to make informed decisions by uncovering patterns, trends, and insights from large datasets.
@@ -13,6 +15,7 @@
 3. Enhanced Customer Understanding : By analyzing customer data, organizations gain valuable insights into consumer behavior, preferences, and needs, enabling them to tailor products, services, and marketing strategies to better meet customer demands.
 4. Risk Mitigation : Data analysis helps identify potential risks and threats to the business.
 5. Competitive Advantage : Effective data analysis provides a competitive edge, positioning them ahead of competitors in their industry.
+--------------------------------------------------------------------------------------------
 
 ## Data Sources And Data Preparation
 1. Diverse Data Sources
@@ -23,6 +26,7 @@
    Cleaning and preparing the data is a critical step in the analysis process. It involves 
    removing inconsistencies, handling missing values, and transforming raw data into a 
    usable format for meaningful insights.
+--------------------------------------------------------------------------------------------
 
 ## Creating Visualizations And Dashboards
 1. Data Visualization - Transforming raw data into compelling visual representations is essential for conveying complex information in a simplified and impactful manner. 
@@ -34,8 +38,10 @@
 
 ## KPIs and Conclusion
 -- A. Total Sales ,Total Orders and Average Estimated Shipping Days
-                   <img width="288" alt="Total Sales 1" src="https://github.com/Rahul9549/OLIST-Store-Analysis-/assets/158488879/ebc2062c-6482-42af-a3cd-efa0bf0151eb">
--- Insights-
+                   
+<img width="450" alt="Total Sales 1" src="https://github.com/Rahul9549/OLIST-Store-Analysis-/assets/158488879/ebc2062c-6482-42af-a3cd-efa0bf0151eb">
+
+-- Conclusions
 1. We should aim to reduce the average shipping days by improving logistics and investing in faster shipping methods.
 
 2. Always ensure adequate stock levels to fulfill orders promptly and prevent delays in order processing.
@@ -43,8 +49,6 @@
 3. With Total Orders of 99K and Sales of 16 Million , we can see a healthy level of market demand and customer engagement.
 ![image](https://github.com/Rahul9549/OLIST-Store-Analysis-/assets/158488879/4d2d6e35-12b0-43ba-b19c-997f8aa629a8)
                  
-
-
 
 -- B . Weekday Vs Weekend Payment Statistics
                      ![image](https://github.com/Rahul9549/OLIST-Store-Analysis-/assets/158488879/7ffb96b0-6ba5-40f6-9ff9-d6bab5a95e16)
@@ -104,7 +108,26 @@
    consumer preferences and drive sales further.
 2. Ensure adequate stock levels for top-selling items to prevent stockouts and capitalize on demand.
 3. Develop tailored offers to incentivize repeat purchases and enhance customer engagement within these lucrative categories.
+--- ----------------------------------------------------------------------------------------
                            
+## Insights and Recommendations
+INSIGHTS:
+1. Payment on weekdays is 11.91 million dollars (77.21%) and payment on weekends is 3.51 million dollars (22.79%).
+2. Number of orders with review score 5 and payment type as credit is 44k.
+3. Average  number of days to deliver for pet shop is 11 days.
+4. Average price and payment values from customers of sao paulo are 107 dollar and 134 dollar.
+5. Relationship between shipping days  and review score has negative correlation.
+6. 1 star reviews is on third place in the review score distribution ranking which likely indicates that there could be problems with product quality in some product categories.
+7. Delivery performance could also influence review scores and success rate could certainly be improve.
+--------------------------------------------------------------------------------------------
+RECOMMENDATIONS:
+1. Regularly monitor and analyze customer reviews to gain insights in product quality and identify areas for improvement.
+2. Investigate delivery delays and undelivered orders.
+3. Providing a proper shipment tracking system aids in having clear and concise communication between customers, sellers and deliverer.
+4. By establishing trust and communication, both parties can work together to resolve any issues that may arise.
+5. Company should provide some sort of scheme for debit card customers in order to target the debit card customer to increase the sales.
+
+
 
 
                            
