@@ -1,7 +1,7 @@
 # OLIST Store Analysis
 --------------------------------------------------------------------------------------------
 
-## Agenda:-
+## Agenda:
 - Benefits Of Analysis
 - Data Sources And Data Preparation
 - Creating Visualizations And Dashboards
